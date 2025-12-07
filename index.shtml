@@ -6,14 +6,14 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Deployment:</h1>
+    <h1>Deployment on Render:</h1>
     <ul>
         <li>Name: Katy Wouters</li>
-        <li>GitHub Location: https://github.com/katywou/katywoupTERP</li>
-        <li>Render Location: https://nelsonpterp.onrender.com/</li>
-        <li>Clearing Database Movies: https://nelsonpterp.onrender.com/clearCollection</li>
-        <li>Inserting Movies: https://nelsonpterp.onrender.com/insertMovies</li>
-        <li>List Movies: https://nelsonpterp.onrender.com/listMovies</li>
+        <li><strong>>GitHub Location:</strong> <a href="https://github.com/katywou/katywoupTERP">https://github.com/katywou/katywoupTERP</a></li>
+        <li><strong>Render Location: </strong><a href="https://katywoupterp.onrender.com/">https://katywoupterp.onrender.com/</a></li>
+        <li><strong>Clearing Database Movies: </strong><a href="https://katywoupterp.onrender.com/clearCollection">https://katywoupterp.onrender.com/clearCollection</a></li>
+        <li><strong>Inserting Movies: </strong><a href="https://katywoupterp.onrender.com/insertMovies">https://katywoupterp.onrender.com/insertMovies</a></li>
+        <li><strong>List Movies: </strong><a href="https://katywoupterp.onrender.com/listMovies">https://katywoupterp.onrender.com/listMovies</a></li>
     </ul>
 </body>
 </html>
