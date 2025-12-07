@@ -8,8 +8,8 @@
 <body>
     <h1>Deployment on Render:</h1>
     <ul>
-        <li>Name: Katy Wouters</li>
-        <li><strong>>GitHub Location:</strong> <a href="https://github.com/katywou/katywoupTERP">https://github.com/katywou/katywoupTERP</a></li>
+        <li><strong>Name: </strong>Katy Wouters</li>
+        <li><strong>GitHub Location:</strong> <a href="https://github.com/katywou/katywoupTERP">https://github.com/katywou/katywoupTERP</a></li>
         <li><strong>Render Location: </strong><a href="https://katywoupterp.onrender.com/">https://katywoupterp.onrender.com/</a></li>
         <li><strong>Clearing Database Movies: </strong><a href="https://katywoupterp.onrender.com/clearCollection">https://katywoupterp.onrender.com/clearCollection</a></li>
         <li><strong>Inserting Movies: </strong><a href="https://katywoupterp.onrender.com/insertMovies">https://katywoupterp.onrender.com/insertMovies</a></li>
