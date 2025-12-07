@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Deployment:</h1>
+    <ul>
+        <li>Name: Katy Wouters</li>
+        <li>GitHub Location: https://github.com/katywou/katywoupTERP</li>
+        <li>Render Location: https://nelsonpterp.onrender.com/</li>
+        <li>Clearing Database Movies: https://nelsonpterp.onrender.com/clearCollection</li>
+        <li>Inserting Movies: https://nelsonpterp.onrender.com/insertMovies</li>
+        <li>List Movies: https://nelsonpterp.onrender.com/listMovies</li>
+    </ul>
+</body>
+</html>
